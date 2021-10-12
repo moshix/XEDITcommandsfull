@@ -43,14 +43,6 @@ which will look better when printed. It's formatted for a LaserJet printer,
 19 8&#189;&#215;11" pages.
 </UL>
 
-<H3>Other Summaries and Demos</H3>
-<UL>
-<LI>See my <A HREF="index.html">home page</A> for other summaries and demos:
-APL, REXX, XEDIT, Perl, HTML, RGB Colors, HTTP Cookies, Email Forms,
-CGI Environment Variables, Server Side Includes, etc...
-</UL>
-
-
 <HR SIZE=4 NOSHADE>
 
 <A NAME=subcommands><H2>Subcommands &amp; Supplied Macros</H2></A>
